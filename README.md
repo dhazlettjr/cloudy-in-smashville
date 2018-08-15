@@ -4,4 +4,6 @@
 
 - Clone this repo
 - npm install
-- run ```node index.js -c (any city)```
+- run ```node index.js -c nashville```
+- ```node index.js -c detroit```
+- Pick any city of your choosing
