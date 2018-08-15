@@ -1,0 +1,22 @@
+{
+  "name": "cloudy-in-smashville",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dhazlettjr/cloudy-in-smashville.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dhazlettjr/cloudy-in-smashville/issues"
+  },
+  "homepage": "https://github.com/dhazlettjr/cloudy-in-smashville#readme",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
